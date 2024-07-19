@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YubenB
 - 👀 I’m interested in Guitar, Singing, and Sleeping
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Paradigm (OOP), Design Pattern (MVC), Web Server (Framework -- Express), Database (Postresql --SQL) +ORM (Sequelize) +JSON , Framework / Library, React, Design Pattern (TDD), JWT, oAuth, React Native,   Unit Testing (Jest), NoSQL (MongoDB), Rest API, GraphQL, Microservice (Docker), AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Hit Me]( https://www.linkedin.com/in/yuben-rizky-putra-bauty-62b551238/)
 
