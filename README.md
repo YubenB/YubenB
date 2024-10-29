@@ -1,4 +1,4 @@
-# Hi, I'm Yuben Bauty 👋  
+# Hi, I'm Yuben 👋  
 
 ## About Me  
 🎸 I’m passionate about **guitar, singing, and sleeping** – a unique combination of creativity and rest!  
