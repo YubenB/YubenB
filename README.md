@@ -11,12 +11,12 @@ I'm diving deep into a variety of **development tools, frameworks, and patterns*
   - MVC (Model-View-Controller)  
   - TDD (Test-Driven Development)  
 - **Backend Development:**  
-  - **Web Server:** Express.js  
+  - **Web Server:** Express.js
   - **Databases:** PostgreSQL (SQL) + ORM (Sequelize), MongoDB (NoSQL)  
   - **APIs:** REST API, GraphQL  
-- **Frontend Development:** React, React Native  
+- **Frontend Development:** React, Next.js, React Native  
 - **Authentication:** JWT, OAuth  
-- **Microservices & DevOps:** Docker, AWS  
+- **Microservices & DevOps:** Docker, AWS, Docket, Kubernetes  
 - **Testing:** Unit Testing with Jest  
 - **Data Handling:** JSON  
 
