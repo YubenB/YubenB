@@ -8,7 +8,7 @@
 I'm a software engineer passionate about designing maintainable backend systems and sleek user-facing products.  
 Currently working as a **Backend Developer at [Rakhasa Artha Wisesa](https://rakhasa.com)**, where I focus on building robust APIs, microservices, and automation pipelines.
 
-Beyond work, I explore entrepreneurship and build independent projects — combining engineering depth with creative presentation and strong product identity.
+Beyond work, I explore entrepreneurship and build independent projects, combining engineering depth with creative presentation and strong product identity.
 
 ---
 
