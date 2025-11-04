@@ -51,5 +51,5 @@ Beyond work, I explore entrepreneurship and build independent projects — combi
 
 ### Connect with Me
 [🌎 yuben.me](https://yuben.me)  
-[💼 LinkedIn](https://linkedin.com/in/yubenbauty)  
+[💼 LinkedIn](https://linkedin.com/in/yuben-bauty)  
 [📧 Email](mailto:yubenbauty@gmail.com)
