@@ -1,6 +1,6 @@
 # Hi, I'm Yuben Rizky Putra Bauty
 
-> Backend & Fullstack Software Engineer
+> Full Stack Developer
 
 ---
 
@@ -13,7 +13,7 @@ Currently working as a remote full-stack developer for a remote client, where I 
 
 ### Tech Stack
 **Languages & Frameworks**
-- Node.js, TypeScript, Go, NestJS, Express, React, Next.js, React Native  
+- Node.js, TypeScript, Go, NestJS, Express, React, Next.js, React Native, PHP, CI4  
 - PostgreSQL, MongoDB, Redis, GraphQL, RabbitMQ, Kafka  
 
 **Infrastructure & Practices**
