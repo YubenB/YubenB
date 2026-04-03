@@ -5,10 +5,9 @@
 ---
 
 ### About Me
-I'm a software engineer passionate about designing maintainable backend systems and sleek user-facing products.  
-Currently working as a **Backend Developer at [Rakhasa Artha Wisesa](https://rakhasa.com)**, where I focus on building robust APIs, microservices, and automation pipelines.
+Full-Stack Developer with strong backend specialization, experienced in building high-volume digital platforms, scalable system architectures, and integration-heavy applications.
 
-Beyond work, I explore entrepreneurship and build independent projects, combining engineering depth with creative presentation and strong product identity.
+Currently working as a remote full-stack developer for a remote client, where I architect and maintain a high-concurrency system built with PHP 8 and CodeIgniter 4. The platform integrates with 10+ external service providers and processes real-time events with strong consistency and reliability guarantees.
 
 ---
 
