@@ -269,7 +269,7 @@ Built cross-platform mobile applications using:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yubenbauty&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YubenB&theme=transparent&hide_border=true" />
 </p>
 
 ---
